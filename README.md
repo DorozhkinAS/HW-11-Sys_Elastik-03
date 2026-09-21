@@ -31,7 +31,8 @@ docker-compose манифест (если вы не использовали д�
 
 <img width="1579" height="723" alt="20" src="https://github.com/user-attachments/assets/ddae57da-d799-4128-9789-bc610337f1ed" />
 
-<img width="1513" height="788" alt="21" src="https://github.com/user-attachments/assets/43912ce5-2140-4420-9535-f017a61177a8" />
+<img width="1513" height="788" alt="21" src="https://github.com/user-attachments/assets/60b63b1c-a60e-4bd6-b32f-10fcbb9bac0a" />
+
 
 ##  ` docker-compose.yml `
 ```yml
@@ -186,10 +187,7 @@ output.logstash:
 
 <img width="1178" height="608" alt="22" src="https://github.com/user-attachments/assets/42d25461-5608-4d3f-bcfd-18ab400e4bdc" />
 
-
-
-
-<img width="1920" height="1080" alt="Снимок экрана (2231)" src="https://github.com/user-attachments/assets/4a02feec-a95c-41dd-8e8c-b51beb0b643a" />
+<img width="1254" height="655" alt="25" src="https://github.com/user-attachments/assets/fcbcb728-488a-46ca-a6f5-f7f423265db7" />
 
 
 
