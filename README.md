@@ -184,7 +184,10 @@ output.logstash:
 
 ## Ответ:
 
-<img width="1920" height="1080" alt="Снимок экрана (2230)" src="https://github.com/user-attachments/assets/3e753d35-75a6-45c7-90d4-8119a6566831" />
+<img width="1178" height="608" alt="22" src="https://github.com/user-attachments/assets/42d25461-5608-4d3f-bcfd-18ab400e4bdc" />
+
+
+
 
 <img width="1920" height="1080" alt="Снимок экрана (2231)" src="https://github.com/user-attachments/assets/4a02feec-a95c-41dd-8e8c-b51beb0b643a" />
 
