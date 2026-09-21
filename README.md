@@ -29,10 +29,10 @@ docker-compose манифест (если вы не использовали д�
 
 ## Ответ:
 
-<img width="1920" height="1080" alt="Снимок экрана (2228)" src="https://github.com/user-attachments/assets/103ef934-8a48-4694-a932-101884d7dd83" />
+<img width="1579" height="723" alt="20" src="https://github.com/user-attachments/assets/ddae57da-d799-4128-9789-bc610337f1ed" />
 
-<img width="1920" height="1080" alt="Снимок экрана (2232)" src="https://github.com/user-attachments/assets/a037cb25-958e-4e86-9132-041c5271dd9e" />
- 
+<img width="1513" height="788" alt="21" src="https://github.com/user-attachments/assets/43912ce5-2140-4420-9535-f017a61177a8" />
+
 ##  ` docker-compose.yml `
 ```yml
 
